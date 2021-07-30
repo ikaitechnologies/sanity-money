@@ -42,7 +42,11 @@ export default {
       name: "pagebuildersection",
       title: "Add content",
       type: "array",
-      of: [{ type: "common_btn" }, { type: "home_landing_section" }],
+      of: [
+        { type: "common_btn" },
+        { type: "home_landing_section" },
+        { type: "LeftTitleRightDesc" },
+      ],
     },
   ],
 };
