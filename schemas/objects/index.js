@@ -7,3 +7,5 @@ export { default as descriptionWidget } from "./descriptionWidget";
 export { default as navigationMenu } from "./navigationMenu";
 export { default as home_landing_section } from "./homeLandingSection";
 export { default as LeftTitleRightDesc } from "./LeftTitleRightDesc";
+export { default as CounterSection } from "./CounterSection";
+export { default as userCounter } from "./userCounter";

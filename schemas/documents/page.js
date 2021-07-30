@@ -46,6 +46,7 @@ export default {
         { type: "common_btn" },
         { type: "home_landing_section" },
         { type: "LeftTitleRightDesc" },
+        { type: "CounterSection" },
       ],
     },
   ],
