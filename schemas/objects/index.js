@@ -9,3 +9,5 @@ export { default as home_landing_section } from "./homeLandingSection";
 export { default as LeftTitleRightDesc } from "./LeftTitleRightDesc";
 export { default as CounterSection } from "./CounterSection";
 export { default as userCounter } from "./userCounter";
+export { default as serviceTypeInputs } from "./serviceTypeInputs";
+export { default as serviceTypeSection } from "./serviceTypeSection";
