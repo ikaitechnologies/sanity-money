@@ -54,6 +54,7 @@ export default {
         { type: "OurTeamSection" },
         { type: "FinacialToolSection" },
         { type: "OurPartnerSection" },
+        { type: "creditSection" },
       ],
     },
   ],
