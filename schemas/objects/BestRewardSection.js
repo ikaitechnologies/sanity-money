@@ -1,7 +1,7 @@
 export default {
-  title: "Counter Section",
+  title: "Best Reward Section",
   type: "object",
-  name: "CounterSection",
+  name: "BestRewardSection",
   fields: [
     {
       type: "string",
@@ -14,10 +14,14 @@ export default {
       title: "Title Highlighted",
     },
     {
-      type: "array",
-      name: "Counter",
-      title: "Counter Type",
-      of: [{ type: "userCounter" }],
+      type: "text",
+      name: "Description",
+      title: "Description",
+    },
+    {
+      type: "string",
+      name: "link",
+      title: "Link",
     },
   ],
 };

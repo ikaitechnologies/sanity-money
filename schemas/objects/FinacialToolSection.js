@@ -1,7 +1,7 @@
 export default {
-  title: "Counter Section",
+  title: "Finacial Tool Section",
   type: "object",
-  name: "CounterSection",
+  name: "FinacialToolSection",
   fields: [
     {
       type: "string",
@@ -15,9 +15,9 @@ export default {
     },
     {
       type: "array",
-      name: "Counter",
-      title: "Counter Type",
-      of: [{ type: "userCounter" }],
+      name: "FinacialToolSection",
+      title: "Finacial Tool Section",
+      of: [{ type: "homeFinancialTool" }],
     },
   ],
 };
