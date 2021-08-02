@@ -27,3 +27,5 @@ export { default as ourPartner } from "./ourPartner";
 export { default as TrendingOfferSection } from "./TrendingOfferSection";
 export { default as homeTrendingOffer } from "./homeTrendingOffer";
 export { default as homeTrendingOfferSlider } from "./homeTrendingOfferSlider";
+export { default as creditSection } from "./creditSection";
+export { default as creditSectionFeaturesInput } from "./creditSectionFeaturesInput";
