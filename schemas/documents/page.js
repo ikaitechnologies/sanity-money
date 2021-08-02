@@ -48,6 +48,7 @@ export default {
         { type: "LeftTitleRightDesc" },
         { type: "CounterSection" },
         { type: "serviceTypeSection" },
+        { type: "testimonials" },
       ],
     },
   ],

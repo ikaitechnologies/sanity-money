@@ -11,3 +11,7 @@ export { default as CounterSection } from "./CounterSection";
 export { default as userCounter } from "./userCounter";
 export { default as serviceTypeInputs } from "./serviceTypeInputs";
 export { default as serviceTypeSection } from "./serviceTypeSection";
+// export { default as twoCardTestimonialsInput } from "./twoCardTestimonialsInput";
+// export { default as twoCardTestimonials } from "./twoCardTestimonials";
+export { default as testimonials } from "./testimonials";
+export { default as testimonialsInputs } from "./testimonialsInputs"
