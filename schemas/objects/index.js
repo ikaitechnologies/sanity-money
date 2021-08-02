@@ -20,3 +20,6 @@ export { default as FinacialToolSection } from "./FinacialToolSection";
 export { default as homeFinancialTool } from "./homeFinancialTool";
 export { default as OurPartnerSection } from "./OurPartnerSection";
 export { default as ourPartner } from "./ourPartner";
+export { default as TrendingOfferSection } from "./TrendingOfferSection";
+export { default as homeTrendingOffer } from "./homeTrendingOffer";
+export { default as homeTrendingOfferSlider } from "./homeTrendingOfferSlider";

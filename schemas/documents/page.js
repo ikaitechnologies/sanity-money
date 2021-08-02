@@ -47,6 +47,7 @@ export default {
         { type: "home_landing_section" },
         { type: "LeftTitleRightDesc" },
         { type: "CounterSection" },
+        { type: "TrendingOfferSection" },
         { type: "serviceTypeSection" },
         { type: "TextWithCardSection" },
         { type: "BestRewardSection" },
