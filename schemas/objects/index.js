@@ -18,3 +18,5 @@ export { default as OurTeamSection } from "./OurTeamSection";
 export { default as ourTeamProfile } from "./ourTeamProfile";
 export { default as FinacialToolSection } from "./FinacialToolSection";
 export { default as homeFinancialTool } from "./homeFinancialTool";
+export { default as OurPartnerSection } from "./OurPartnerSection";
+export { default as ourPartner } from "./ourPartner";

@@ -52,6 +52,7 @@ export default {
         { type: "BestRewardSection" },
         { type: "OurTeamSection" },
         { type: "FinacialToolSection" },
+        { type: "OurPartnerSection" },
       ],
     },
   ],
