@@ -1,7 +1,7 @@
 export default {
-  title: "Counter Section",
+  title: "Our Partner Section",
   type: "object",
-  name: "CounterSection",
+  name: "OurPartnerSection",
   fields: [
     {
       type: "string",
@@ -15,9 +15,9 @@ export default {
     },
     {
       type: "array",
-      name: "Counter",
-      title: "Counter Type",
-      of: [{ type: "userCounter" }],
+      name: "OurPartnerSection",
+      title: "Our Partner Section",
+      of: [{ type: "ourPartner" }],
     },
   ],
 };

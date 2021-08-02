@@ -15,3 +15,12 @@ export { default as serviceTypeSection } from "./serviceTypeSection";
 // export { default as twoCardTestimonials } from "./twoCardTestimonials";
 export { default as testimonials } from "./testimonials";
 export { default as testimonialsInputs } from "./testimonialsInputs"
+export { default as TextWithCardSection } from "./TextWithCardSection";
+export { default as homeTextWithCard } from "./homeTextWithCard";
+export { default as BestRewardSection } from "./BestRewardSection";
+export { default as OurTeamSection } from "./OurTeamSection";
+export { default as ourTeamProfile } from "./ourTeamProfile";
+export { default as FinacialToolSection } from "./FinacialToolSection";
+export { default as homeFinancialTool } from "./homeFinancialTool";
+export { default as OurPartnerSection } from "./OurPartnerSection";
+export { default as ourPartner } from "./ourPartner";
