@@ -20,6 +20,11 @@ export default {
       title: "Home Landing Description",
     },
     {
+      type: "boolean",
+      name: "home_landing_rotate_image",
+      title: "Home Landing Rotate Image",
+    },
+    {
       title: "Display Image",
       name: "home_landing_image",
       type: "image",

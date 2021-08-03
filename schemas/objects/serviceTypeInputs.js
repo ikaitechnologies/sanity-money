@@ -10,6 +10,11 @@ export default {
     },
     {
       type: "string",
+      name: "serviceTypeIconAlt",
+      title: "Service Icon Alt",
+    },
+    {
+      type: "string",
       name: "serviceTypeTitle",
       title: "Service Type title",
     },
