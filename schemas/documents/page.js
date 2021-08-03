@@ -57,6 +57,7 @@ export default {
         { type: "OurPartnerSection" },
         { type: "creditSection" },
         { type: "featuresSection" },
+        { type: "bestOfferSection" },
       ],
     }, 
   ],
