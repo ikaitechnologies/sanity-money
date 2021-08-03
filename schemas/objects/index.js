@@ -29,3 +29,7 @@ export { default as homeTrendingOffer } from "./homeTrendingOffer";
 export { default as homeTrendingOfferSlider } from "./homeTrendingOfferSlider";
 export { default as creditSection } from "./creditSection";
 export { default as creditSectionFeaturesInput } from "./creditSectionFeaturesInput";
+export { default as featuresSection } from "./featuresSection";
+export { default as featuresInputSection } from "./featuresInputSection";
+export { default as bestOfferInputSection } from "./bestOfferInputSection";
+export { default as bestOfferSection } from "./bestOfferSection";
