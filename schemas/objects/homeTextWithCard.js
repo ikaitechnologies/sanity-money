@@ -5,13 +5,13 @@ export default {
   fields: [
     {
       type: "image",
-      name: "icon",
-      title: "Icon",
+      name: "homeTextWithCardicon",
+      title: "Home TextWithCard Icon",
     },
     {
       type: "string",
-      name: "TitleName",
-      title: "Title",
+      name: "homeTextWithCardTitleName",
+      title: "Home TextWithCard Title",
     },
     {
       type: "string",

@@ -5,8 +5,8 @@ export default {
   fields: [
     {
       type: "string",
-      name: "title",
-      title: "Title",
+      name: "countersectiontitle",
+      title: "Counter Section Title",
     },
     {
       type: "string",
@@ -15,7 +15,7 @@ export default {
     },
     {
       type: "array",
-      name: "Counter",
+      name: "countersection",
       title: "Counter Type",
       of: [{ type: "userCounter" }],
     },

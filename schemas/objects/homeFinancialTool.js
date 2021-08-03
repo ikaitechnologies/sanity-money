@@ -5,23 +5,13 @@ export default {
   fields: [
     {
       type: "string",
-      name: "title",
-      title: "Title",
+      name: "homeFinancialTooltitle",
+      title: "home FinancialTool Title",
     },
     {
       type: "text",
-      name: "description",
-      title: "Dscription",
-    },
-    {
-      type: "image",
-      name: "bgImage",
-      title: "Background Image",
-    },
-    {
-      type: "string",
-      name: "altImage",
-      title: "Alt Image",
+      name: "homeFinancialTooldescription",
+      title: "home FinancialTool Dscription",
     },
   ],
 };

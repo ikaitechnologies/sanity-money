@@ -5,8 +5,8 @@ export default {
   fields: [
     {
       type: "string",
-      name: "title",
-      title: "Title",
+      name: "BestRewardSectiontitle",
+      title: "Best Reward Section Title",
     },
     {
       type: "string",
@@ -15,8 +15,8 @@ export default {
     },
     {
       type: "text",
-      name: "Description",
-      title: "Description",
+      name: "BestRewardSectionDescription",
+      title: "Best Reward Section Description",
     },
     {
       type: "string",

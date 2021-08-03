@@ -5,8 +5,8 @@ export default {
   fields: [
     {
       type: "string",
-      name: "title",
-      title: "Title",
+      name: "textWithCardSectiontitle",
+      title: "Text With Card Section Title",
     },
     {
       type: "string",
@@ -15,8 +15,8 @@ export default {
     },
     {
       type: "text",
-      name: "Description",
-      title: "Description",
+      name: "textWithCardSectiontitleDescription",
+      title: "Text With Card Section Description",
     },
     {
       type: "array",

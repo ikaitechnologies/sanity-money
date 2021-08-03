@@ -5,8 +5,8 @@ export default {
     fields: [
       {
         type: "string",
-        name: "title",
-        title: "Title",
+        name: "TrendingOfferSectiontitle",
+        title: "Trending Offer Section Title",
       },
       {
         type: "string",

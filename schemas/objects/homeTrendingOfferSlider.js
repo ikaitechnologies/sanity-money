@@ -5,13 +5,13 @@ export default {
   fields: [
     {
       type: "string",
-      name: "title",
-      title: "Title",
+      name: "homeTrendingOfferSlidertitle",
+      title: "Features Type Title",
     },
     {
       type: "string",
-      name: "value",
-      title: "Value",
+      name: "homeTrendingOfferSlidervalue",
+      title: "Features Type Value",
     },
   ],
 };

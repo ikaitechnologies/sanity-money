@@ -5,8 +5,13 @@ export default {
   fields: [
     {
         type: "image",
-        name: "icon",
-        title: "Sponsors Image",
+        name: "ourPartnericon",
+        title: "our Partner Sponsors Image",
     },
+    {
+      type: "string",
+      name: "ourPartnerialtImage",
+      title: "our Partner Sponsors Image Alt Image",
+  },
   ],
 };

@@ -5,8 +5,8 @@ export default {
     fields: [
       {
         type: "string",
-        name: "title",
-        title: "Title",
+        name: "OurTeamSectiontitle",
+        title: "Our Team Section Title",
       },
       {
         type: "string",
@@ -15,8 +15,8 @@ export default {
       },
       {
         type: "string",
-        name: "Description",
-        title: "Description",
+        name: "OurTeamSectionDescription",
+        title: "Our Team Section Description",
       },
       {
         type: "array",

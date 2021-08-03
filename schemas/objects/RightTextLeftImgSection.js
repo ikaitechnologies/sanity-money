@@ -5,8 +5,8 @@ export default {
   fields: [
     {
       type: "string",
-      name: "title",
-      title: "Title",
+      name: "RightTextLeftImgSectiontitle",
+      title: "Right Text Left Img Section Title",
     },
     {
       type: "string",
@@ -15,18 +15,18 @@ export default {
     },
     {
       type: "image",
-      name: "icon",
-      title: "Icon",
+      name: "RightTextLeftImgSectionicon",
+      title: "Right Text Left Img Section Icon",
     },
     {
       type: "string",
-      name: "altImage",
-      title: "Alt Image",
+      name: "RightTextLeftImgSectionAltImage",
+      title: "Right Text Left Img Section Alt Image",
     },
     {
       type: "text",
-      name: "Description",
-      title: "Description",
+      name: "RightTextLeftImgSectionDescription",
+      title: "Right Text Left Img Section Description",
     },
   ],
 };

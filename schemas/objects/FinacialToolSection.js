@@ -5,8 +5,8 @@ export default {
   fields: [
     {
       type: "string",
-      name: "title",
-      title: "Title",
+      name: "FinacialToolSectiontitle",
+      title: "Finacial Tool Section Title",
     },
     {
       type: "string",
@@ -17,6 +17,11 @@ export default {
       type: "image",
       name: "HomeFinacialbgImage",
       title: "Background Image",
+    },
+    {
+      type: "string",
+      name: "homeFinancialToolaltImage",
+      title: "Alt Image",
     },
     {
       type: "array",

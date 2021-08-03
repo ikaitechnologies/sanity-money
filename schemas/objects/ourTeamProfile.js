@@ -5,8 +5,13 @@ export default {
     fields: [
       {
         type: "image",
-        name: "icon",
-        title: "Icon",
+        name: "ourTeamProfileicon",
+        title: "our Team Profile Icon",
+      },
+      {
+        type: "string",
+        name: "ourTeamProfilealtimage",
+        title: "our Team Profile Alt Image",
       },
       {
         type: "string",
@@ -15,8 +20,8 @@ export default {
       },
       {
         type: "string",
-        name: "post",
-        title: "Post",
+        name: "ourTeamProfilepost",
+        title: "our Team Profile Post",
       },
     ],
   };

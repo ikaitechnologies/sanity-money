@@ -5,8 +5,8 @@ export default {
   fields: [
     {
       type: "image",
-      name: "icon",
-      title: "Icon",
+      name: "usercountericon",
+      title: "User Counter Icon",
     },
     {
       type: "string",
@@ -19,7 +19,7 @@ export default {
       title: "Counter",
     },
     {
-      type: "text",
+      type: "string",
       name: "TitleCounter",
       title: "Title Counter",
     },
