@@ -14,6 +14,11 @@ export default {
       title: "Title Highlighted",
     },
     {
+      type: "image",
+      name: "HomeFinacialbgImage",
+      title: "Background Image",
+    },
+    {
       type: "array",
       name: "FinacialToolSection",
       title: "Finacial Tool Section",
