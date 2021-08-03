@@ -13,5 +13,15 @@ export default {
       name: "description",
       title: "Dscription",
     },
+    {
+      type: "image",
+      name: "bgImage",
+      title: "Background Image",
+    },
+    {
+      type: "string",
+      name: "altImage",
+      title: "Alt Image",
+    },
   ],
 };
