@@ -20,6 +20,11 @@ export default {
     },
     {
       type: "string",
+      name: "altImage",
+      title: "Alt Image",
+    },
+    {
+      type: "string",
       name: "bankOffer",
       title: "Bank Offer",
     },
