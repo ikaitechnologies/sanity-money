@@ -19,6 +19,11 @@ export default {
       title: "Icon",
     },
     {
+      type: "string",
+      name: "altImage",
+      title: "Alt Image",
+    },
+    {
       type: "text",
       name: "Description",
       title: "Description",
