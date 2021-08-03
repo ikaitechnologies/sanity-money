@@ -1,7 +1,7 @@
 export default {
-  title: "Left Title Right Description",
+  title: "Right Text Left Img Section",
   type: "object",
-  name: "LeftTitleRightDesc",
+  name: "RightTextLeftImgSection",
   fields: [
     {
       type: "string",
@@ -12,6 +12,11 @@ export default {
       type: "string",
       name: "titlehightlighted",
       title: "Title Highlighted",
+    },
+    {
+      type: "image",
+      name: "icon",
+      title: "Icon",
     },
     {
       type: "text",

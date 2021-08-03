@@ -10,6 +10,11 @@ export default {
     },
     {
       type: "string",
+      name: "altImage",
+      title: "Alt Counter Image",
+    },
+    {
+      type: "string",
       name: "NumberCounter",
       title: "Counter",
     },
