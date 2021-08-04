@@ -33,3 +33,5 @@ export { default as featuresSection } from "./featuresSection";
 export { default as featuresInputSection } from "./featuresInputSection";
 export { default as bestOfferInputSection } from "./bestOfferInputSection";
 export { default as bestOfferSection } from "./bestOfferSection";
+export { default as CreditAccordonSection } from "./CreditAccordonSection";
+export { default as creditAccordon } from "./creditAccordon";

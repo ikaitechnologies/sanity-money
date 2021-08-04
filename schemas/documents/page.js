@@ -58,7 +58,8 @@ export default {
         { type: "creditSection" },
         { type: "featuresSection" },
         { type: "bestOfferSection" },
+        { type: "CreditAccordonSection" },
       ],
-    }, 
+    },
   ],
 };
