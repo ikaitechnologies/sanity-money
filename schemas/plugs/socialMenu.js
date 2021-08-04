@@ -9,6 +9,16 @@ export default {
             type: 'string'
         },
         {
+            title: 'Social Item Icon Image',
+            name: 'social_item_icon_image',
+            type: 'image'
+        },
+        {
+            title: 'Social Item Icon Image Alt',
+            name: 'social_item_icon_image_alt',
+            type: 'string'
+        },
+        {
             title: 'Social Item Link',
             name: 'social_item_link',
             type: 'string'
