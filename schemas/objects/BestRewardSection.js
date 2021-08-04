@@ -20,8 +20,13 @@ export default {
     },
     {
       type: "string",
-      name: "link",
-      title: "Link",
+      name: "bestRewardButtonName",
+      title: "Best Reward Button Name",
+    },
+    {
+      type: "url",
+      name: "bestRewardButtonLink",
+      title: "Best Reward Button Link",
     },
   ],
 };
