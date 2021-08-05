@@ -24,6 +24,11 @@ export default {
       title: "Credit Section Button",
     },
     {
+      type: "url",
+      name: "creditSectionButtonLink",
+      title: "Credit Section Button Link",
+    },
+    {
         name: "creditSectionFeaturesData",
         type: "array",
         title: "Credit Section Features Data",
