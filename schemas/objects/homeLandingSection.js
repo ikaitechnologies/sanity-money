@@ -33,5 +33,20 @@ export default {
       },
       description: "Home Landing Display Image",
     },
+    {
+      title: "Display Alt Image",
+      name: "home_landing_altimage",
+      type: "string",
+    },
+    {
+      type: "string",
+      name: "home_landing_buttonName",
+      title: "Home Landing Button Name",
+    },
+    {
+      type: "url",
+      name: "home_landing_buttonLink",
+      title: "Home Landing Button Link",
+    },
   ],
 };
