@@ -32,5 +32,6 @@ export default {
       },
       description: "Bussiness Loan Landing Display Image",
     },
+    
   ],
 };
