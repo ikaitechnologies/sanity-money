@@ -19,6 +19,11 @@ export default {
         title: "Our Team Section Description",
       },
       {
+        type: "url",
+        name: "OurTeamSectionLink",
+        title: "Our Team Section Link",
+      },
+      {
         type: "array",
         name: "OurTeamSection",
         title: "Our Team Section",
