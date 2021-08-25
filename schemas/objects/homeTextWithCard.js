@@ -18,5 +18,10 @@ export default {
       name: "altImage",
       title: "Alt Image Card",
     },
+    {
+      type: "url",
+      name: "homeTextWithCardLink",
+      title: "Home TextWithCard Link",
+    },
   ],
 };
