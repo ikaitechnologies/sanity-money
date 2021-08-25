@@ -8,23 +8,20 @@ export default {
       name: "creditAccordonQuestion",
       title: "Credit Accordon Question",
     },
-    {
-      type: "string",
-      name: "creditAccordonAnswer",
-      title: "Credit Accordon Answer",
-    },
     // {
-    //   type: "array",
+    //   type: "string",
     //   name: "creditAccordonAnswer",
     //   title: "Credit Accordon Answer",
-    //   of: [
-    //     {
-    //       type: "block",
-    //     },
-    //     {
-    //       type: "table",
-    //     },
-    //   ],
     // },
+    {
+      type: "array",
+      name: "creditAccordonAnswer",
+      title: "Credit Accordon Answer",
+      of: [
+        {
+          type: "block",
+        },
+      ],
+    },
   ],
 };
