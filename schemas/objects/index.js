@@ -39,4 +39,6 @@ export { default as AboutUsCardSection } from "./AboutUsCardSection";
 export { default as aboutcards } from "./aboutcards";
 export { default as WhoWeAreSection } from "./WhoWeAreSection";
 export { default as WhoWeDoSection } from "./WhoWeDoSection";
+export { default as emi_calc_section } from "./emiCalc";
+export { default as contact_us } from "./contactus";
 

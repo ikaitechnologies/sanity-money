@@ -62,6 +62,8 @@ export default {
         { type: "AboutUsCardSection" },
         { type: "WhoWeAreSection" },
         { type: "WhoWeDoSection" },
+        { type: "emi_calc_section" },
+        { type: "contact_us" },
       ],
     },
   ],
