@@ -19,6 +19,21 @@ export default {
       title: "Alt Image Card",
     },
     {
+      type: "image",
+      name: "homeTextWithCardicons",
+      title: "Home TextWithCard Icons",
+    },
+    {
+      type: "string",
+      name: "homeTextWithCardTitleNames",
+      title: "Home TextWithCard Titles",
+    },
+    {
+      type: "string",
+      name: "altImages",
+      title: "Alt Image Cards",
+    },
+    {
       type: "url",
       name: "homeTextWithCardLink",
       title: "Home TextWithCard Link",
