@@ -41,4 +41,9 @@ export { default as WhoWeAreSection } from "./WhoWeAreSection";
 export { default as WhoWeDoSection } from "./WhoWeDoSection";
 export { default as emi_calc_section } from "./emiCalc";
 export { default as contact_us } from "./contactus";
-
+export { default as carrers_header_section } from "./carrerHeader";
+export { default as carrers_gallery_section } from "./careerGallerySection";
+export { default as careers_gallery_fields_section } from "./careersgalleryFields";
+export { default as careers_gallery_images } from "./careersGalleryImagesFeilds";
+export { default as carrers_form_section } from "./careersForm"; 
+export { default as privacy_policy_section } from "./privacyPolicy";
