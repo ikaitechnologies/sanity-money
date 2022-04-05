@@ -67,6 +67,7 @@ export default {
         { type: "carrers_header_section" },
         { type: "carrers_gallery_section" },
         { type: "carrers_form_section" },
+        { type: "privacy_policy_section" },
       ],
     },
   ],

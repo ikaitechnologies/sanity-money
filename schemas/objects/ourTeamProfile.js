@@ -7,6 +7,9 @@ export default {
         type: "image",
         name: "ourTeamProfileicon",
         title: "our Team Profile Icon",
+        options: {
+          hotspot: true // <-- Defaults to false
+        },
       },
       {
         type: "string",
