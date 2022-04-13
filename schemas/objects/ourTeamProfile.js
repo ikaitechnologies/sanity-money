@@ -26,5 +26,20 @@ export default {
         name: "ourTeamProfilepost",
         title: "our Team Profile Post",
       },
+      {
+        type: "text",
+        name: "individual_taught",
+        title: "Individual Taught",
+      },
+      {
+        type: "text",
+        name: "short_desc",
+        title: "Short description of that person",
+      },
+      {
+        type: "social_menu_section",
+        name: "social_menu",
+        title: "Social Menu",
+      },
     ],
   };
